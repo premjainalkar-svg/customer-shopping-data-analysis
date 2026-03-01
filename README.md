@@ -98,3 +98,5 @@ This analysis helps businesses to:
 Prem Jainalkar  
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
+![Dashboard](screenshots/dashboard.png)
+
