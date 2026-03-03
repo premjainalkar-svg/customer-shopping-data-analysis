@@ -92,6 +92,25 @@ This analysis helps businesses to:
 4. Open Power BI file to explore dashboard
 
 ---
+## 📊 Dashboard Preview
+
+### Dashboard Page 1
+![Dashboard 1](dashboard_1.png)
+
+### Dashboard Page 2
+![Dashboard 2](dashboard_2.png)
+
+### Dashboard Page 3
+![Dashboard 3](dashboard_3.png)
+
+### Dashboard Page 4
+![Dashboard 4](dashboard_4.png)
+
+### Dashboard Page 5
+![Dashboard 5](dashboard_5.png)
+
+Update README with dashboard images
+-----
 
 ## 👤 Author
 
